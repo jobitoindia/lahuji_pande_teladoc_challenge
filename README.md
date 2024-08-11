@@ -1,4 +1,6 @@
 In order to run the automation tests in this Framework, kindly navigate to the below path:
+
+
       1. way2automation
       2. src/test/java
       3. Features
