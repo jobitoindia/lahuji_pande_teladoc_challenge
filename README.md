@@ -23,10 +23,16 @@ In BDD framework, code has been segregated in below folder structure,
 
 
   **1. Base:** it contains the code for initizing the browser
+  
   **2. Pages:** here followed the Page Object Model (POM) design patterns, as per this created seperate java classes and maintained the locators in resepctive java page class.
+  
   **3. Config:** this is a configuration file, which contains the common data
+  
   **4. Runner:** it contains the code which act as bridge between feature and stepdefination
+  
   **5. StepDefination:** it contains the code for the steps written in feature file, actual test cases
+  
   **6. Resources:** it contains the exe for chromedriver
+  
   **7. Feature:** it contains the feature files
    
