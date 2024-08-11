@@ -20,6 +20,8 @@ On the console below, it show the test results.
    4. Appropriately use the Super and This keywords, at necessity places.
   
 In BDD framework, code has been segregated in below folder structure,
+
+
   **1. Base:** it contains the code for initizing the browser
   **2. Pages:** here followed the Page Object Model (POM) design patterns, as per this created seperate java classes and maintained the locators in resepctive java page class.
   **3. Config:** this is a configuration file, which contains the common data
